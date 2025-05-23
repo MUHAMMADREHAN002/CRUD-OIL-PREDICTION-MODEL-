@@ -1,11 +1,4 @@
-yfinance
+absl-py==2.2.2
+gradio
+numpy
 pandas
-numpy 
-gradio 
-sklearn.ensemble
-matplotlib.pyplot 
-requests
-textblob 
-datetime 
-os
-pickle
