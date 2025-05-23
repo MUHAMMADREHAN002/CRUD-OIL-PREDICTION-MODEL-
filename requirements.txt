@@ -2,5 +2,6 @@ absl-py==2.2.2
 gradio
 numpy
 pandas
-scikit-learnnumpy
+scikit-learn
+
 
