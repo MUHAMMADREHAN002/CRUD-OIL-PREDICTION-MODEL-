@@ -1,7 +1,9 @@
-absl-py==2.2.2
-gradio
-numpy
+yfinance
 pandas
+numpy
+matplotlib
 scikit-learn
-
-
+tensorflow
+gradio
+requests
+textblob
